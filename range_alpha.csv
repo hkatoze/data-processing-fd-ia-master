@@ -1,0 +1,570 @@
+ID,airport_name,type,country,lat,long,elevation,service
+AAD,Adado Airport,small_airport,SO,6.095802,46.6375,1001.0,no
+BI-0002,Mwumba Airport,small_airport,BI,-2.879447,29.832178,,no
+BMQ,Bamburi Airport,small_airport,KE,-3.98138,39.73112,52.0,no
+DJ-0001,Holhol Airport,small_airport,DJ,11.30608,42.91968,,no
+DJ-0002,Djibouti Hassan Gouled International Airport,closed,DJ,11.54796,43.12446,108.0,no
+DJ-0003,Chinese People's Liberation Army Support Base in Djibouti,heliport,DJ,11.590843,43.063415,39.0,no
+DJ-0004,Djibouti Presidential Heliport,heliport,DJ,11.59668,43.14119,1.0,no
+DJ-0005,Djibouti Sudanese Military Hospital Heliport,heliport,DJ,11.57195,43.13258,13.0,no
+DJ-0006,Helipad,heliport,DJ,11.589279,43.059347,,no
+DJ-0007,Military Helipads (5x),heliport,DJ,11.54554,43.15745,,no
+DJ-0008,Military Helipad,heliport,DJ,11.554781,43.156668,,no
+ET-0002,Kibbish Wells Airport,small_airport,ET,5.296,35.8682,1403.0,no
+ET-0003,Ganada Airport,small_airport,ET,5.337166,37.022991,,no
+ET-0005,African Union Heliport,heliport,ET,8.999475,38.742503,,no
+ET-0006,Bameza - Grand Ethiopian Renaissance Dam Airport,small_airport,ET,11.1269,35.04396,2047.0,no
+ET-0007,Dolo Airport,small_airport,ET,4.17489,42.03296,630.0,no
+ET-0010,Combolcha Airport,closed,ET,11.0825,39.711399,6117.0,no
+ET-0011,Masslo Airport,closed,ET,6.408491,39.722443,4180.0,no
+ET-0013,Degah Bur Airport,closed,ET,8.234,43.5673,3550.0,no
+ET-0014,Buno Bedelle Airport,closed,ET,8.447604,36.341035,6560.0,no
+ET-0015,Bulchi Airport,closed,ET,6.288333,36.886667,4500.0,no
+ET-0016,Bishoftu International Airport(Under Construction),closed,ET,8.697235,38.798834,,no
+ET-0017,Almata Airstrip,closed,ET,12.344751,39.585015,5000.0,no
+ET-0018,Mekele Airstrip,closed,ET,13.516469,39.464106,6600.0,no
+ET-GLC,Geladi Airport,small_airport,ET,6.984439849849999,46.4213981628,1383.0,no
+GBM,Garbaharey Airport,small_airport,SO,3.32294,42.21309,755.0,no
+HAAB,Addis Ababa Bole International Airport,large_airport,ET,8.97789,38.799301,7630.0,yes
+HAAD,Adaba Airport,small_airport,ET,7.022953,39.273162,7896.0,no
+HAAL,Lideta Army Airport,small_airport,ET,9.003685,38.725498,7749.0,no
+HAAM,Arba Minch Airport,medium_airport,ET,6.03939,37.5905,3901.0,yes
+HAAX,Axum Airport,medium_airport,ET,14.1468,38.7728,6959.0,yes
+HABC,Baco Airport,small_airport,ET,5.783333,36.55,4300.0,no
+HABD,Bahir Dar Airport,medium_airport,ET,11.6081,37.321602,5978.0,yes
+HABE,Beica Airport,small_airport,ET,9.38639,34.5219,5410.0,no
+HADC,Kombolcha Airport,small_airport,ET,11.10975,39.725911,6120.0,yes
+HADD,Dembidollo Airport,small_airport,ET,8.554,34.858002,5200.0,yes
+HADM,Debre Markos Airport,small_airport,ET,10.321501,37.741887,8136.0,no
+HADO,Dodola Airport,small_airport,ET,7.02056,39.051102,8234.0,no
+HADR,Aba Tenna Dejazmach Yilma International Airport,large_airport,ET,9.623549,41.855027,3827.0,yes
+HADT,Debre Tabor Airport,small_airport,ET,11.884808,38.009241,8490.0,no
+HAFN,Fincha Airport,small_airport,ET,9.584387,37.377855,7600.0,no
+HAGH,Ghinnir Airport,small_airport,ET,7.15000009537,40.716999054,6499.0,no
+HAGM,Gambela Airport,medium_airport,ET,8.12876,34.563099,1614.0,yes
+HAGN,Gondar Airport,medium_airport,ET,12.5199,37.433998,6449.0,yes
+HAGO,Gode Airport,medium_airport,ET,5.93513011932,43.5786018372,834.0,yes
+HAGR,Gore Airport,small_airport,ET,8.1614,35.5529,6580.0,no
+HAHM,Harar Meda Airport,medium_airport,ET,8.7163,39.0059,6201.0,no
+HAHU,Humera Airport,small_airport,ET,13.83012,36.88237,1930.0,no
+HAJJ,Gerad Wilwal International Airport,large_airport,ET,9.331907,42.911811,5954.0,yes
+HAJK,Jinka Airport,medium_airport,ET,5.749655,36.560165,4475.0,yes
+HAJM,Jimma Airport,medium_airport,ET,7.66609001159668,36.81660079956055,5500.0,yes
+HAKD,Kebri Dahar Airport,medium_airport,ET,6.732577,44.241339,1800.0,yes
+HAKL,Kelafo East Airport,small_airport,ET,5.6570000648498535,44.34999847412109,1730.0,no
+HALA,Hawassa International Airport,large_airport,ET,7.100611,38.396455,5450.0,yes
+HALL,Lalibela Airport,small_airport,ET,11.975225,38.980198,6506.0,no
+HAMA,Mekane Selam Airport,small_airport,ET,10.7254,38.7415,8405.0,no
+HAMK,Mekele Alula Aba Nega Airport,medium_airport,ET,13.4674,39.533501,7396.0,yes
+HAMM,Metema Airport,small_airport,ET,12.932999610899998,36.1669998169,2650.0,no
+HAMN,Mendi Airport,small_airport,ET,9.767,35.099998,5500.0,no
+HAMR,Mui River Airport,small_airport,ET,5.8646,35.7485,1834.0,no
+HAMT,Mizan Teferi Airport,small_airport,ET,6.9571,35.5547,4396.0,yes
+HAPW,Beles Airport,small_airport,ET,11.3126,36.4164,3695.0,no
+HASO,Asosa Airport,medium_airport,ET,10.018500328063965,34.586299896240234,5100.0,yes
+HBBA,Bujumbura Melchior Ndadaye International Airport,large_airport,BI,-3.32402,29.318501,2582.0,yes
+HBBE,Gitega Airport,medium_airport,BI,-3.417209,29.911308,5741.0,yes
+HBBK,Gihohi Airport,small_airport,BI,-4.0342,30.1318,4065.0,no
+HBBO,Kirundo Airport,small_airport,BI,-2.544772,30.094575,4511.0,yes
+HCDM,Dusomareb Airport,small_airport,SO,5.472,46.359833,840.0,no
+HCMA,Alula Airport,small_airport,SO,11.9582,50.748,6.0,no
+HCMB,Baidoa Airport,small_airport,SO,3.10192,43.627137,1820.0,no
+HCMC,Candala Airport,small_airport,SO,11.495627,49.909816,30.0,no
+HCMD,Baardheere Airport,small_airport,SO,2.330195,42.311802,396.0,no
+HCME,Eil Airport,small_airport,SO,8.104,49.82,879.0,no
+HCMF,Bender Qassim International Airport,large_airport,SO,11.275235,49.139231,3.0,yes
+HCMG,Gardo Airport,small_airport,SO,9.545975,49.119148,2632.0,no
+HCMH,Egal International Airport,large_airport,SO,9.514082,44.083469,4471.0,yes
+HCMI,Berbera Airport,medium_airport,SO,10.385035,44.936723,30.0,yes
+HCMJ,Lugh Ganane Airport,small_airport,SO,3.8124,42.5459,507.0,no
+HCMK,Kismayo Airport,medium_airport,SO,-0.377353,42.459202,49.0,no
+HCMM,Aden Adde International Airport,large_airport,SO,2.01444,45.304699,29.0,yes
+HCMN,Beledweyne Airport,small_airport,SO,4.766976,45.2388,559.0,yes
+HCMO,Hobyo Airport,small_airport,SO,5.358003,48.515281,65.0,no
+HCMR,Galcaio Airport,small_airport,SO,6.78082990646,47.45470047,975.0,yes
+HCMS,Iskushuban Airport,small_airport,SO,10.313889,50.205556,1121.0,no
+HCMU,Erigavo Airport,small_airport,SO,10.642050549,47.3879814148,5720.0,no
+HCMV,Burao Airport,small_airport,SO,9.5275,45.5549,3400.0,no
+HCMW,Garowe Airport,small_airport,SO,8.458474,48.568136,1465.0,yes
+HDAG,Assa-Gueyla Airport,small_airport,DJ,12.188882,42.637494,2050.0,no
+HDAM,Djibouti-Ambouli Airport,large_airport,DJ,11.5473,43.1595,49.0,yes
+HDAS,Ali-Sabieh Airport,small_airport,DJ,11.146889,42.72,2313.0,no
+HDCH,Chabelley Airport,small_airport,DJ,11.5168,43.061401,279.0,no
+HDDK,Dikhil Airport,small_airport,DJ,11.097958,42.350556,1520.0,no
+HDHE,Herkale Airport,small_airport,DJ,12.4449,43.292575,38.0,no
+HDMO,Moucha Airport,small_airport,DJ,11.72975,43.209559,,no
+HKAM,Amboseli Airport,medium_airport,KE,-2.644786,37.252922,3755.0,yes
+HKBR,Bura East Airport,small_airport,KE,-1.097737,39.949247,345.0,no
+HKEL,Eldoret International Airport,large_airport,KE,0.404458,35.238899,6941.0,yes
+HKEM,Embu Airport,small_airport,KE,-0.574823,37.496961,4150.0,no
+HKES,Eliye Springs Airport,small_airport,KE,3.236405,35.974938,1395.0,no
+HKEW,El Wak Airport,small_airport,KE,2.814204,40.855389,,no
+HKFG,Kalokol Airport,small_airport,KE,3.49161,35.836777,1245.0,no
+HKGA,Garissa Airport,small_airport,KE,-0.463508,39.6483,475.0,no
+HKGT,Garba Tula Airport,small_airport,KE,0.520716,38.516052,2000.0,no
+HKHB,Homa Bay Airport,small_airport,KE,-0.587322,34.476467,4280.0,no
+HKHO,Hola Airport,small_airport,KE,-1.521276,40.003621,195.0,no
+HKIS,Isiolo Airport,small_airport,KE,0.338171,37.591694,3495.0,no
+HKJK,Jomo Kenyatta International Airport,large_airport,KE,-1.318886,36.928233,5330.0,yes
+HKKB,Kiambere Airport,small_airport,KE,-0.635825,37.877236,2450.0,no
+HKKE,Keekorok Airport,small_airport,KE,-1.586345,35.257455,5800.0,no
+HKKG,Kakamega Airport,small_airport,KE,0.271353,34.78812,5020.0,no
+HKKI,Kisumu International Airport,large_airport,KE,-0.086139,34.728901,3734.0,yes
+HKKL,Kilaguni Airport,small_airport,KE,-2.906848,38.071738,2750.0,no
+HKKR,Kericho Airport,small_airport,KE,-0.3899,35.242093,6446.0,no
+HKKS,Kisii Airport,small_airport,KE,-0.672518,34.69099,4905.0,no
+HKKT,Kitale Airport,medium_airport,KE,0.971989,34.958599,6070.0,no
+HKKU,Kitui Airport,small_airport,KE,-1.37279,37.9781,3790.0,no
+HKLG,Lokitaung Airport,small_airport,KE,4.319264,35.687879,1805.0,no
+HKLK,Lokichogio Airport,medium_airport,KE,4.20412,34.348202,2074.0,no
+HKLO,Lodwar Airport,medium_airport,KE,3.12197,35.6087,1715.0,no
+HKLU,Manda Airport,medium_airport,KE,-2.252431,40.912892,20.0,yes
+HKLY,Loiyangalani Airport,small_airport,KE,2.763605,36.718325,1195.0,no
+HKMA,Mandera Airport,small_airport,KE,3.933816,41.844114,805.0,no
+HKMB,Marsabit Airport,small_airport,KE,2.344254,37.999996,4395.0,no
+HKMI,Kisima Airport,small_airport,KE,0.949109,36.757328,5940.0,no
+HKMK,Mulika Lodge Airport,small_airport,KE,0.165083,38.195141,2230.0,yes
+HKML,Malindi International Airport,medium_airport,KE,-3.22931,40.1017,80.0,yes
+HKMM,Migori Airport,small_airport,KE,-1.116,34.485833,4616.0,no
+HKMO,Moi International Airport,large_airport,KE,-4.03483,39.5942,200.0,yes
+HKMS,Mara Serena Lodge Airstrip,medium_airport,KE,-1.404588,35.008349,5200.0,yes
+HKMU,Makindu Airport,small_airport,KE,-2.290474,37.824559,3513.0,no
+HKMY,Moyale Airport,small_airport,KE,3.46972,39.101398,2790.0,no
+HKNY,Laikipia Air Base,medium_airport,KE,0.029024,37.025196,,no
+HKRE,Moi Air Base,medium_airport,KE,-1.27727,36.862301,5336.0,no
+HRYG,Gisenyi Airport,medium_airport,RW,-1.6772,29.2589,5082.0,no
+HRYI,Butare Airport,small_airport,RW,-2.59583,29.7367,5801.0,no
+HRYO,Gabiro Airport,small_airport,RW,-1.5499999523162842,30.382999420166016,4806.0,no
+HRYR,Kigali International Airport,large_airport,RW,-1.96863,30.1395,4859.0,yes
+HRZA,Kamembe Airport,medium_airport,RW,-2.462239980697632,28.907899856567383,5192.0,yes
+HTAG,Amani Beach Airport,small_airport,TZ,-6.957292,39.505588,114.0,no
+HTAR,Arusha Airport,medium_airport,TZ,-3.3677899837493896,36.63330078125,4550.0,yes
+HTBB,Kibambawe Airstrip,small_airport,TZ,-7.748241,38.001833,485.0,no
+HTBS,Mbesa Airport,small_airport,TZ,-11.331675,37.067816,1980.0,no
+HTBU,Bukoba Airport,small_airport,TZ,-1.332,31.8212,3784.0,yes
+HTCH,Chunya Airport,small_airport,TZ,-8.558318,33.436368,5000.0,no
+HTDA,Julius Nyerere International Airport,large_airport,TZ,-6.873499,39.207288,182.0,yes
+HTDO,Dodoma Airport,medium_airport,TZ,-6.170559,35.756036,3673.0,yes
+HTEN,Endulen Airport,small_airport,TZ,-3.194243,35.26315,5442.0,no
+HTGE,Chato/Geita Airport,small_airport,TZ,-2.74233,31.70683,3898.0,no
+HTGR,Kirawira B Aerodrome,small_airport,TZ,-2.160833,34.225556,3970.0,no
+HTIR,Iringa Airport,medium_airport,TZ,-7.66863,35.752102,4678.0,no
+HTIY,Inyonga Airport,small_airport,TZ,-6.719232,32.062657,3790.0,no
+HTKA,Kigoma Airport,small_airport,TZ,-4.8862,29.6709,2700.0,yes
+HTKB,Kibondo Airport,small_airport,TZ,-3.525979995727539,30.650400161743164,4262.0,no
+HTKD,Kondoa Airport,small_airport,TZ,-4.894127,35.769098,4578.0,no
+HTKI,Kilwa Airport,small_airport,TZ,-8.91123,39.508619,50.0,no
+HTKJ,Kilimanjaro International Airport,large_airport,TZ,-3.427049,37.07353,2932.0,yes
+HTKL,Kirondatal Airport,small_airport,TZ,-4.312575,34.346453,5033.0,no
+HTKO,Kongwa Airport,small_airport,TZ,-6.150000095367432,36.41699981689453,3300.0,no
+HTKS,Kilosa Airport,small_airport,TZ,-6.864605,37.00845,1567.0,no
+HTKT,Kilimatinde Airport,small_airport,TZ,-5.831378,34.966387,3300.0,no
+HTLD,Loliondo Airport,small_airport,TZ,-2.06969,35.5457,6620.0,no
+HTLI,Lindi Airport,small_airport,TZ,-9.851005,39.75911,100.0,no
+HTLL,Liuli Airport,small_airport,TZ,-11.116399765014648,34.652198791503906,1667.0,no
+HTLM,Lake Manyara Airport,medium_airport,TZ,-3.37631,35.818298,4150.0,no
+HTMA,Mafia Airport,small_airport,TZ,-7.917478,39.668502,60.0,yes
+HTMB,Mbeya Airport,small_airport,TZ,-8.919444,33.463889,5600.0,no
+HTMD,Mwadui Airport,small_airport,TZ,-3.521332,33.615542,3970.0,no
+HTMF,Mufindi Airport,small_airport,TZ,-8.732040405273438,35.3026008605957,4175.0,no
+HTMG,Morogoro Airport,small_airport,TZ,-6.79722,37.653099,1676.0,no
+HTMI,Masasi Airport,small_airport,TZ,-10.733,38.766998,1700.0,no
+HTMK,Mikumi Airport,small_airport,TZ,-7.333427906036377,37.11635971069336,1737.0,no
+HTML,Mahale Airstrip,small_airport,TZ,-6.012913,29.766937,2561.0,no
+HTMO,Mombo Airport,small_airport,TZ,-4.899146,38.240289,1350.0,no
+HTMP,Mpanda Airport,small_airport,TZ,-6.355374,31.084116,3520.0,no
+HTMS,Moshi Airport,small_airport,TZ,-3.36333,37.3269,2801.0,no
+HTMT,Mtwara Airport,medium_airport,TZ,-10.336204,40.181997,371.0,yes
+HTMU,Musoma Airport,small_airport,TZ,-1.503,33.8021,3806.0,yes
+HTMW,Mwanza International Airport,large_airport,TZ,-2.446563,32.936049,3763.0,yes
+HTMX,Mpwapwa Airport,small_airport,TZ,-6.349999904632568,36.483001708984375,3240.0,no
+HTSH,Mafinga Airport,small_airport,TZ,-8.334921,35.29917,6300.0,no
+HTZA,Abeid Amani Karume International Airport,large_airport,TZ,-6.22202,39.224899,54.0,yes
+HUAJ,Adjumani Airport,small_airport,UG,3.339239,31.763854,2611.0,no
+HUAR,Arua Airport,medium_airport,UG,3.049152,30.911714,3951.0,yes
+HUBU,Bundibugyo Airport,small_airport,UG,0.67349,30.025483,3100.0,no
+HUEN,Entebbe International Airport,large_airport,UG,0.042386,32.443501,3782.0,yes
+HUFP,Fort Portal Airport,small_airport,UG,0.7063,30.2493,5255.0,no
+HUGG,Bugungu Airport,small_airport,UG,2.202788,31.554341,2472.0,no
+HUGU,Gulu Airport,medium_airport,UG,2.805560111999512,32.27180099487305,3510.0,yes
+HUJI,Jinja Airport,small_airport,UG,0.453094,33.19356,3855.0,no
+HUKB,Kabale Airport,small_airport,UG,-1.226111,29.96,6000.0,no
+HUKD,Kidepo Airport,small_airport,UG,3.7176,33.7487,4033.0,no
+HUKJ,Kajjansi Airfield,small_airport,UG,0.1968,32.55297,3743.0,no
+HUKK,Kakira Airport,small_airport,UG,0.4933,33.281,3962.0,no
+HUKO,Kotido Airport,small_airport,UG,2.953,34.1232,4020.0,no
+HUKS,Kasese Airport,small_airport,UG,0.183,30.1,3146.0,no
+HUKT,Kitgum Airport,small_airport,UG,3.2817,32.8882,3130.0,no
+HULI,Lira Airport,small_airport,UG,2.25,32.9169998169,3580.0,no
+HUMA,Mbarara Airport,small_airport,UG,-0.555278,30.5994,4600.0,no
+HUMI,Masindi Airport,small_airport,UG,1.75806,31.7367,3850.0,no
+HUMO,Moroto Airport,small_airport,UG,2.5051,34.5946,4170.0,no
+HUMW,Mweya Airport,small_airport,UG,-0.194,29.8941,3160.0,no
+KBH,Kahama Airstrip,small_airport,TZ,-3.847,32.6865,,no
+KE-0001,Mfangano Airport,small_airport,KE,-0.463046,34.062473,3750.0,no
+KE-0005,Mara Shikar Airport,small_airport,KE,-1.069278,35.050777,5500.0,no
+KE-0006,Camp Simba Airfield,small_airport,KE,-2.169513,40.896414,,no
+KE-0007,Chepgoiben Airstrip,small_airport,KE,-0.392801,35.33093,6955.0,no
+KE-0014,Kabarak Airstrip,small_airport,KE,-0.189141,35.962871,6368.0,no
+KE-0015,Lake Baringo (Kampi Ya Samaki) Airport,small_airport,KE,0.603167,36.013,3000.0,no
+KE-0018,Kapedo Airport,small_airport,KE,1.173284,36.090608,2500.0,no
+KE-0020,Congrieve Airfield,small_airport,KE,-0.481119,36.123218,5800.0,no
+KE-0023,Kongoni Airport,small_airport,KE,-0.863153,36.228068,6600.0,no
+KE-0024,Delamare Camp Airport,small_airport,KE,-0.399523,36.234254,5800.0,no
+KE-0027,Loldia Airport,small_airport,KE,-0.694161,36.316681,1970.0,no
+KE-0028,Manyatta Airport,small_airport,KE,-0.494715,36.352908,6400.0,no
+KE-0030,Kigio (Malewa) Airport,small_airport,KE,-0.587807,36.406775,6734.0,no
+KE-0032,Mugie Ranch Airport,small_airport,KE,0.714812,36.586594,6150.0,no
+KE-0035,Ilbisil Airstrip,small_airport,KE,-2.120226,36.815678,5000.0,no
+KE-0041,Laburra Airport,small_airport,KE,-0.298471,36.947185,6030.0,no
+KE-0042,Hall Hall Airport,small_airport,KE,0.933333,37.066666,6000.0,no
+KE-0043,Hall Strip Airport,closed,KE,2.930361,37.067528,6000.0,no
+KE-0044,Kamwaki Farm Airport,small_airport,KE,0.132423,37.159395,6530.0,no
+KE-0045,Ibis Farm Airport,small_airport,KE,0.0429,37.20151,7000.0,no
+KE-0052,Lewa Airstrip,small_airport,KE,0.195157,37.470289,5600.0,no
+KE-0053,Mbirikani Airport,small_airport,KE,-2.56229,37.543027,3900.0,no
+KE-0054,Hurri Hills Airport,small_airport,KE,3.341831,37.720792,4300.0,no
+KE-0055,Lake Jipe Airport,small_airport,KE,-3.626263,37.78253,2400.0,no
+KE-0056,Finch Hattons Airport,small_airport,KE,-2.945968,37.914688,2644.0,no
+KE-0057,Maktau Gate Airport,small_airport,KE,-3.408667,38.119919,3500.0,no
+KE-0058,Kamboyo (Tsavo West) Airport,small_airport,KE,-2.753061,38.121118,2805.0,no
+KE-0059,Kangetchwa Airport,small_airport,KE,-3.179622,38.128781,3050.0,no
+KE-0061,Ithumba Airport,small_airport,KE,-2.216722,38.38689,1700.0,no
+KE-0063,Kone Airport,small_airport,KE,-2.329158,39.035182,500.0,no
+KE-0064,Moyale Boma Airstrip,small_airport,KE,3.524281,39.047738,2790.0,no
+KE-0065,Crocodile Camp Airport,small_airport,KE,-3.076832,39.244552,500.0,no
+KE-0066,Kwale Airport,small_airport,KE,-4.170062,39.433923,1380.0,no
+KE-0067,Kore Galana Ranch Airport,small_airport,KE,-2.997436,39.288256,,no
+KE-0068,Koma Wayu (Tank E) Airstrip,small_airport,KE,-2.896018,39.49747,500.0,no
+KE-0070,Kijipwa Airport,small_airport,KE,-3.842052,39.805092,40.0,no
+KE-0071,Garsen Airport,small_airport,KE,-2.267013,40.092438,16.0,no
+KE-0074,Laragai Airstrip,small_airport,KE,0.269778,37.329096,,no
+KE-0076,Mount Kenya Lodge Airstrip,small_airport,KE,-0.161788,37.44557,,no
+KE-0077,Log Logo Airstrip,small_airport,KE,1.994582,37.916434,,no
+KE-0078,Kalacha Airport,small_airport,KE,3.134855,37.426236,,no
+KE-0079,Kauro Airstrip,small_airport,KE,1.06402,37.720198,,no
+KE-0080,Baomo Tana Airport,small_airport,KE,-1.847326,40.091586,200.0,no
+KE-0081,Bura West Airport,small_airport,KE,-1.189574,39.81448,250.0,no
+KE-0086,Airspray Naivasha Airfield,small_airport,KE,-0.797263,36.40794,6200.0,no
+KE-0087,Alale Airport,small_airport,KE,2.267596,35.029196,5000.0,no
+KE-0088,Alia Bay Airport,small_airport,KE,3.703752,36.265059,,no
+KE-0089,Arabia Airport,small_airport,KE,3.566973,41.511833,1212.0,no
+KE-0090,Asako Airport,small_airport,KE,-0.107107,39.046973,500.0,no
+KE-0091,Athi River Airport,small_airport,KE,-1.51094,37.034369,,no
+KE-0092,Batchuma Gate Airport,small_airport,KE,-3.663575,38.945339,1250.0,no
+KE-0093,Baragoi West Airport,small_airport,KE,1.807578,36.679137,,no
+KE-0094,Barsaloi Airport,small_airport,KE,1.340706,36.856679,,no
+KE-0095,Barton's Naivasha Airport,small_airport,KE,-0.795118,36.295698,,no
+KE-0096,Crescent Island Naivasha Airport,small_airport,KE,-0.767433,36.397561,,no
+KE-0097,Belatrix Kargi Airport,small_airport,KE,2.505995,37.565966,,no
+KE-0099,Bobs Harries Airport,small_airport,KE,-1.040713,36.992879,,no
+KE-0100,Enarau Conservancy Airstrip,small_airport,KE,-1.014151,35.342216,,no
+KE-0101,Bomet Airport,small_airport,KE,-0.776471,35.318411,,no
+KE-0102,Buna Airport,small_airport,KE,2.801467,39.481064,1642.0,no
+KE-0103,Bute Moyale Airport,small_airport,KE,3.337517,39.41424,2128.0,no
+KE-0104,Carzan Rongai Airport,small_airport,KE,-0.191457,35.864189,,no
+KE-0105,Chaffa Airport,small_airport,KE,0.666346,37.910434,,no
+KE-0106,Chyulus Airport,small_airport,KE,-2.52936,37.7325,3806.0,no
+KE-0107,Cottars Mara Airport,small_airport,KE,-1.680236,35.343177,5780.0,no
+KE-0108,Dadaab Airport,small_airport,KE,0.058189,40.318055,400.0,no
+KE-0109,Dol Dol Airport,small_airport,KE,0.367944,37.141442,,no
+KE-0110,Milgis Trust Airstrip,small_airport,KE,1.465284,37.073011,,no
+KE-0111,Enasoit Airport,small_airport,KE,0.235863,37.078371,,no
+KE-0112,Engelesha Airport,small_airport,KE,0.510757,36.294394,6464.0,no
+KE-0113,Entasopia Airport,small_airport,KE,-1.783522,36.057783,,no
+KE-0114,Entasekera Airport,small_airport,KE,-1.842318,35.86778,,no
+KE-0115,Funzi Island Airport,small_airport,KE,-4.573672,39.447079,44.0,no
+KE-0116,Galana Ranch Airstrip,small_airport,KE,-3.061225,39.331335,,no
+KE-0117,Gatab Airstrip,small_airport,KE,2.636477,36.932055,,no
+KE-0118,Gilgil Coulson Airport,small_airport,KE,-0.502798,36.356915,,no
+KE-0119,Gogar Airport,small_airport,KE,-0.18786,35.856818,,no
+KE-0120,Habaswein Airport,small_airport,KE,1.016215,39.505836,,no
+KE-0122,Ileret Airstrip,small_airport,KE,4.304767,36.23564,,no
+KE-0123,Ilkerin Airport,closed,KE,-1.806828,35.704339,,no
+KE-0124,Jolai Delamere Estates Airport,small_airport,KE,-0.523628,36.187582,,no
+KE-0125,Kalama Airport,small_airport,KE,0.694423,37.611987,2934.0,no
+KE-0126,Kamburu Airport,small_airport,KE,-0.823913,37.715869,,no
+KE-0127,Kamogi Ranch Airstrip,small_airport,KE,0.601404,36.736467,,no
+KE-0128,Kanzi Airport,small_airport,KE,-2.753129,37.879328,,no
+KE-0129,Kasigau Gate Airport,small_airport,KE,-3.851376,38.515389,,no
+KE-0130,Kataboi Airport,small_airport,KE,3.756978,35.833826,,no
+KE-0131,Katilu Airport,small_airport,KE,2.284536,35.428834,,no
+KE-0132,Kedong Airport,small_airport,KE,-1.299226,36.475135,,no
+KE-0133,Kichwa Tembo Airport,small_airport,KE,-1.263497,35.027533,,no
+KE-0134,Kifuku Estate Airstrip,small_airport,KE,0.173081,36.583018,6236.0,no
+KE-0135,Kijabe Airport,small_airport,KE,-0.957075,36.591668,,no
+KE-0136,Kilalinda Airport,small_airport,KE,-2.627593,38.338681,,no
+KE-0137,Kimana Airstrip,small_airport,KE,-2.752942,37.525214,3996.0,no
+KE-0138,Kipipiri Airport,closed,KE,-0.454084,36.493097,,no
+KE-0140,Kisima Ranch Airstrip,small_airport,KE,0.512642,36.694537,6159.0,no
+KE-0141,Koka Airport,small_airport,KE,-1.915835,36.006139,,no
+KE-0142,Kongoni Game Valley Airport,small_airport,KE,-0.843317,36.259475,,no
+KE-0143,Korr Don Bosco Mission Airstrip,small_airport,KE,2.013693,37.517637,,no
+KE-0144,Korr AIM Airstrip,small_airport,KE,2.007589,37.492161,,no
+KE-0145,Kowop Airstrip,small_airport,KE,2.00616,36.8299,,no
+KE-0146,Kuluo Airport,small_airport,KE,-1.12471,35.197795,,no
+KE-0148,Manda Point Airstrip,small_airport,KE,-2.228949,40.971447,,no
+KE-0149,Langata Enerit Airstrip,small_airport,KE,-1.536513,36.020637,,no
+KE-0150,Larsens Camp Airstrip,small_airport,KE,0.591385,37.586685,,no
+KE-0151,Latakweny Airport,small_airport,KE,1.547691,37.108677,,no
+KE-0152,Lenchukuti Airport,small_airport,KE,2.243084,36.670897,,no
+KE-0153,Lentille Airport,small_airport,KE,0.504473,37.006397,,no
+KE-0154,Limuru Airstrip,small_airport,KE,-1.106687,36.688778,,no
+KE-0155,Lolomarik Airport,small_airport,KE,0.107106,37.278907,7546.0,no
+KE-0156,Longonot Fair Airstrip,small_airport,KE,-0.817141,36.391404,6365.0,no
+KE-0157,Lowarengak Airport,small_airport,KE,4.284767,35.870662,,no
+KE-0158,Lugard Falls South Airport,small_airport,KE,-3.048705,38.689706,,no
+KE-0159,Malinda Estate Airstrip,small_airport,KE,-1.483679,37.098339,,no
+KE-0160,Manyani Airport,small_airport,KE,-3.094749,38.476476,,no
+KE-0161,Marinyn Airport,small_airport,KE,-0.436316,35.297992,,no
+KE-0162,Mawingo Airport,small_airport,KE,-0.043513,37.145448,,no
+KE-0163,Mbaruk Airport,small_airport,KE,-0.397362,36.215325,,no
+KE-0164,Merti Airstrip,small_airport,KE,1.090173,38.599714,,no
+KE-0165,Milmet Airport,small_airport,KE,-0.1115,36.124334,,no
+KE-0166,Mount Elgon Orchards Airstrip,small_airport,KE,1.209714,34.796225,,no
+KE-0167,Mpala Farm Airstrip,small_airport,KE,0.352756,36.894339,,no
+KE-0168,Mpala Research Center Airstrip,small_airport,KE,0.290105,36.892422,,no
+KE-0169,Mughwongo Hill Airport,small_airport,KE,0.121521,38.13033,,no
+KE-0170,Mukenye Ranch Airstrip,small_airport,KE,0.251711,36.805338,,no
+KE-0171,Mutomo Airport,small_airport,KE,-1.846779,38.204732,,no
+KE-0172,Mwatate Airport,small_airport,KE,-3.517815,38.442556,2580.0,no
+KE-0205,MacAlder Airport,closed,KE,-0.957591,34.306287,4074.0,no
+KE-0207,Loisaba Airstrip,small_airport,KE,0.61196,36.800095,5744.0,no
+KE-0209,Bahari East Airstrip,small_airport,KE,-2.446286,40.754641,,no
+KE-0210,Matangeni East Airstrip,small_airport,KE,-2.447421,40.740016,,no
+KE-0213,Former El Wak Airport,closed,KE,2.812043,40.932484,1295.0,no
+KE-6002,Laisamis Airport,small_airport,KE,1.578228,37.810502,1866.0,no
+KE-6007,Lokori Airport,small_airport,KE,1.968939,36.017375,1990.0,no
+KE-6012,Arroket Airport,small_airport,KE,-0.624792,35.065847,5955.0,no
+KE-6013,Balesa Airport,small_airport,KE,3.646972,37.350861,2000.0,no
+KE-6018,Fig Tree  Airport,small_airport,KE,-1.433867,35.197504,5050.0,no
+KE-6019,Head Office Delamere Estates Airport,small_airport,KE,-0.466199,36.191096,6500.0,no
+KE-6020,Intona Ranch Airport,small_airport,KE,-1.142494,34.807464,5500.0,no
+KE-6021,Karimbuni Airport,closed,KE,-0.802967,36.090611,9300.0,no
+KE-6025,Kisima Farm Airport,small_airport,KE,0.112167,37.423262,7800.0,no
+KE-6027,Kamok Airstrip,small_airport,KE,0.053588,36.795587,6290.0,no
+KE-6028,Kulalu Ranch Airport,small_airport,KE,-3.102921,39.39604,,no
+KE-6029,Lubarra Airport,small_airport,KE,-1.2999999523162842,36.95000076293945,6100.0,no
+KE-6033,Hagadera Airport,closed,KE,0.00797,40.383176,360.0,no
+KE-6034,Lomolo Airport,small_airport,KE,0.028525,35.990654,5200.0,no
+KE-6035,Loperot Airport,small_airport,KE,2.345275,35.882778,2011.0,no
+KE-6036,Lothagah Airport,small_airport,KE,3.033333,36.049999,1600.0,no
+KE-6037,Lotubae Airport,small_airport,KE,2.033008,36.130927,1700.0,no
+KE-6040,Menengai Airport,small_airport,KE,-0.229829,36.005713,6650.0,no
+KE-6050,Gaitu Airport,small_airport,KE,-0.017893,37.734289,3805.0,no
+KE-6058,Didima Bule Airport,closed,KE,-2.369167,39.617584,500.0,no
+KE-6061,Komofodo Galana Ranch Airport,small_airport,KE,-2.547635,39.638055,500.0,no
+KE-6062,Embori Farm Airport,small_airport,KE,0.07532,37.347636,8666.0,no
+KE-6067,Barina Airport,small_airport,KE,-0.12812,36.019289,5600.0,no
+KE-6072,Ilkek Airport,small_airport,KE,-0.602639,36.367474,6350.0,no
+KE-6074,Maikona Airstrip,small_airport,KE,2.903096,37.476723,,no
+KE-6077,Lali Galana Airport,small_airport,KE,-3.083905,39.264749,500.0,no
+KE-6079,Kilgoris Airport,small_airport,KE,-1.079585,34.87741,5755.0,no
+KE-6082,Kinna Airport,closed,KE,0.316667,38.200001,2211.0,no
+KE-6084,Green Park Airport,small_airport,KE,-0.666147,36.311102,6791.0,no
+KE-6087,Mara North Conservancy Airstrip,small_airport,KE,-1.14542,35.124922,5500.0,no
+KE-6089,Maji Mazuri Airport,small_airport,KE,0.886789,35.19948,6980.0,no
+KE-6095,Kilifi Plantation Farm Airport,small_airport,KE,-3.649041,39.85191,3.0,no
+KE-6109,Mitunguu Airport,small_airport,KE,-0.111305,37.788594,3100.0,no
+KE-6110,Mokowe Airport,small_airport,KE,-2.227678,40.845139,3.0,no
+KE-6112,Angama Mara Airport,small_airport,KE,-1.271586,34.954666,6180.0,no
+KE-6121,Musiara Airstrip,small_airport,KE,-1.298636,35.063885,5117.0,no
+KE-6127,Beverley Airport,small_airport,KE,3.318857,37.064294,1187.0,no
+KE-6208,Mara-Olkiombo Airport,small_airport,KE,-1.408586,35.110689,5011.0,no
+KE-6320,Laikipia Ranch Airport,small_airport,KE,0.58256,36.432993,6100.0,no
+KE-6394,Lunga-Lunga Airport,small_airport,KE,-4.52864,39.152237,193.0,no
+KE-6396,Maralal Airport,closed,KE,1.098487,36.695144,6450.0,no
+KE-6557,Kakuma Airport,small_airport,KE,3.705094,34.871293,1906.0,no
+KE-6596,Kajiado Airport,small_airport,KE,-1.823809,36.787012,5603.0,no
+KE-6646,Marrian's Airport,small_airport,KE,-0.3405900001525879,36.91352462768555,6400.0,no
+KE-6656,Banisa Airport,small_airport,KE,3.897056,40.320253,2998.0,no
+KE-6873,George Smith Farm Airport,small_airport,KE,0.610893,35.282059,6880.0,no
+KE-6883,Fairmont Airstrip,small_airport,KE,-0.045436,37.129827,7020.0,no
+KE-6888,Kapsumbeiwa Airstrip,small_airport,KE,0.128564,35.221267,1750.0,no
+KE-6890,Baragoi Airport,small_airport,KE,1.779485,36.805969,4202.0,no
+KE-6893,Changoi Tea Estate Airport,small_airport,KE,-0.479808,35.244578,6100.0,no
+KE-6894,Borana Airport,small_airport,KE,0.232462,37.28041,6100.0,no
+KE-6907,Kambi Ya Samaki Airport,closed,KE,-2.319434,37.915699,3093.0,no
+KE-6920,Masalani (Fanjaa) Airport,closed,KE,-1.695655,40.125721,150.0,no
+KE-6924,Mado Gashi Airport,small_airport,KE,0.720061,39.179998,1000.0,no
+KE-6937,Lokichar Airport,small_airport,KE,2.388521,35.648423,2440.0,no
+KE-6946,Kapenguria (Kishaunet) Airport,small_airport,KE,1.273083,35.0681,6482.0,no
+KE-6951,Hulugho Airport,small_airport,KE,-1.148785,41.046531,490.0,no
+KE-6957,Aruba Airport,small_airport,KE,-3.342235,38.814481,1300.0,no
+KE-6978,Kerio Valley Airport,small_airport,KE,0.317916,35.664712,4325.0,no
+KE-6996,Kapchomuswo (Kabarnet) Airport,small_airport,KE,0.536848,35.728044,6205.0,no
+KE-6997,Busia Airport,small_airport,KE,0.454903,34.130728,3989.0,no
+KE-6998,Bungoma Airport,small_airport,KE,0.577324,34.555384,4726.0,no
+KE-6999,Eldoret Boma Airport,small_airport,KE,0.536926,35.280518,7050.0,no
+KE-7001,Magadi Airport,small_airport,KE,-1.947953,36.279916,1955.0,no
+KE-7002,Mackinnon Road Airport,small_airport,KE,-3.730548,39.039413,1446.0,no
+KE-7003,Mtito Andei Airport,small_airport,KE,-2.713806,38.195006,2397.0,no
+KE-7004,Embakasi Airport,closed,KE,-1.298219,36.915546,5357.0,no
+KE-7006,Il Ngwesi Airstrip,small_airport,KE,0.359715,37.354913,,no
+KE-7007,Kilalinda North Airstrip,small_airport,KE,-2.609847,38.345523,,no
+KE-7008,Kathekani East Airstrip,small_airport,KE,-2.596273,38.342404,,no
+KE-7011,Iltilal Airstrip,small_airport,KE,-2.89335,37.877737,,no
+KE-7012,Galana West Airport,small_airport,KE,-3.069086,39.226745,,no
+KE-7013,Black Rhino Airstrip,small_airport,KE,-3.048654,38.631847,,no
+KE-7017,Kapese Airstrip,small_airport,KE,2.368708,35.716184,,no
+KE-7018,Barsalinga Airstrip,small_airport,KE,0.804492,37.149584,,no
+KE-7020,Chagaik Airstrip,small_airport,KE,-0.341416,35.337411,6856.0,no
+KE-KIU,Kiunga Airport,small_airport,KE,-1.741272,41.482707,1.0,no
+KE-LBK,Liboi Airport,small_airport,KE,0.348333,40.881699,280.0,no
+KE-LKU,Lake Rudolf Airport,closed,KE,3.416256,35.885468,1300.0,no
+KE-MUM,Mumias Airport,small_airport,KE,0.355399,34.528234,4163.0,no
+KWY,Kiwayu Airport,medium_airport,KE,-1.960644,41.297156,21.0,no
+MYS,Moyale Airport,small_airport,ET,3.5623,39.0433,3887.0,no
+RW-0001,Gako Airport,small_airport,RW,-2.2308,30.1809,4770.0,no
+RW-0002,Bugesera International Airport (under construction),closed,RW,-2.1444,30.1835,4630.0,no
+SO-0001,K50 Airstrip,small_airport,SO,2.00528,44.986599,100.0,yes
+SO-0002,Baledogle Airfield,small_airport,SO,2.670742,44.792897,297.0,no
+SO-0004,Hafun Airstrip,small_airport,SO,10.445,51.2466,35.0,no
+SO-0005,Hafun Old Base Airstrip,small_airport,SO,10.4154,51.3256,555.0,no
+SO-0006,Buurdhuubo Airstrip,small_airport,SO,3.157458,42.525189,,no
+SO-0007,Dhoobley Airstrip,small_airport,SO,0.399533,40.99606,,no
+SO-0008,Las Khorey Airport,small_airport,SO,11.17348,48.21426,,no
+SO-0010,Bandarbeyla Airport,small_airport,SO,9.4603,50.7416,,no
+SO-0011,Garacad Airport,small_airport,SO,6.8773,49.2476,,no
+SO-0012,Ceeldheer Airport,closed,SO,3.84182,47.16841,,no
+SO-0013,Dayniile Airport,small_airport,SO,2.122039,45.268856,,no
+SO-0014,Merca Airport,closed,SO,1.63274,44.64865,,no
+SO-0015,Baraawe Airport,small_airport,SO,1.09438,43.99532,,no
+SO-0016,Jamaame Airstrip,small_airport,SO,0.05754,42.755045,,no
+SO-0017,Afmadow Airport,small_airport,SO,0.53769,42.05637,79.0,no
+SO-0018,Bu'aale Airfield,small_airport,SO,1.26821,42.58794,200.0,no
+SO-0019,Doolow Airport,small_airport,SO,4.1493,42.08119,625.0,no
+SO-0020,Guriel Airport,small_airport,SO,5.317412,45.985308,,no
+SO-0021,Cisaleey Airport,closed,SO,2.116992,45.4886,29.0,no
+SO-BXX,Borama Airport,small_airport,SO,9.9463,43.1495,,no
+TZ-0001,Mtera Airport,small_airport,TZ,-7.095895,35.977423,2399.0,no
+TZ-0002,Manyoni North Airport,small_airport,TZ,-5.72119,34.838487,4080.0,no
+TZ-0003,Mbinga Airport,small_airport,TZ,-10.96399974822998,35.01179885864258,4335.0,no
+TZ-0005,Mvumi Airport,small_airport,TZ,-6.376389,35.898611,3445.0,no
+TZ-0006,Kasulu Airport,small_airport,TZ,-4.549167,30.102222,4175.0,no
+TZ-0008,Maswa Airstrip,small_airport,TZ,-3.186741,33.792056,4196.0,no
+TZ-0009,Biharamulo Airport,small_airport,TZ,-2.663273,31.36515,4723.0,no
+TZ-0010,Manyoni Airport,small_airport,TZ,-5.758501,34.799656,4084.0,no
+TZ-0011,Liwale Airport,small_airport,TZ,-9.796886,37.870732,,no
+TZ-0012,Ifakara Airport,small_airport,TZ,-8.064876,36.698112,,no
+TZ-0013,Mkwaja Airport,small_airport,TZ,-5.719283,38.828465,,no
+TZ-0014,Mbamba Bay Airport,small_airport,TZ,-11.303451,34.842717,,no
+TZ-0015,Iku Airport,small_airport,TZ,-6.908626,31.166407,,no
+TZ-0017,Jongomeru Airport,small_airport,TZ,-7.894934,34.580821,3000.0,no
+TZ-0018,Kogatende Airstrip,small_airport,TZ,-1.568396,34.886933,,no
+TZ-0019,Limai Airport,closed,TZ,-2.269407,34.023569,,no
+TZ-0020,Lobo Airstrip,small_airport,TZ,-2.009865,35.159105,5500.0,no
+TZ-0021,Mpululu Airport,small_airport,TZ,-7.042659,34.724101,,no
+TZ-0026,Fort Ikoma Airport,small_airport,TZ,-2.080103,34.62952,4412.0,no
+TZ-0027,Kuro Airport,small_airport,TZ,-4.007918,36.076105,,no
+TZ-0028,Msembe Airport,small_airport,TZ,-7.684811,34.922282,2500.0,no
+TZ-0029,Magangwe Airport,small_airport,TZ,-7.719942,34.226726,,no
+TZ-0030,Beho Beho Airstrip,small_airport,TZ,-7.666746,37.927229,393.0,no
+TZ-0031,Boma Ulanga Airstrip,small_airport,TZ,-8.188467,36.91211,,no
+TZ-0032,Buturi Airport,small_airport,TZ,-3.199844,34.436504,4730.0,no
+TZ-0033,Fish Eagle Airport,small_airport,TZ,-4.805057,31.276613,3300.0,no
+TZ-0034,Isanga Airport,small_airport,TZ,-7.527162,33.884071,,no
+TZ-0035,Kifura Airstrip,small_airport,TZ,-3.838092,30.640202,4389.0,no
+TZ-0036,Kihurumila Airport,small_airport,TZ,-9.0411,38.273756,,no
+TZ-0037,Luhanyando Airoprt,small_airport,TZ,-9.447883,36.848932,,no
+TZ-0038,Manane Airport,closed,TZ,-8.206858,36.959834,,no
+TZ-0039,Matambwe Airport,small_airport,TZ,-7.528887,37.76201,585.0,no
+TZ-0040,Matambwe Old Airport,closed,TZ,-7.535478,37.776384,,no
+TZ-0041,Mbunga Airport,small_airport,TZ,-8.978724,36.869154,,no
+TZ-0042,Mkangira Airport,small_airport,TZ,-8.958151,37.338793,,no
+TZ-0043,Mkomazi-Kisima Airport,small_airport,TZ,-4.079592,38.086684,,no
+TZ-0044,Mkuyu Airport,small_airport,TZ,-9.966951,36.878941,,no
+TZ-0045,Mlembwe Airport,small_airport,TZ,-9.426932,37.519672,,no
+TZ-0046,Mpunde Airport,small_airport,TZ,-6.259359,33.619996,,no
+TZ-0047,Mtemaupinde Airport,small_airport,TZ,-11.206844,38.162974,,no
+TZ-0048,Mtemere Airport,small_airport,TZ,-7.750093,38.208474,216.0,no
+TZ-0049,Muhuba Airport,small_airport,TZ,-5.770289,31.721521,,no
+TZ-0050,Mwambesi Airport,small_airport,TZ,-11.61227,37.564572,1000.0,no
+TZ-0056,Alliance Airstrip,small_airport,TZ,-2.602346,33.676018,3800.0,no
+TZ-0057,Birise Airport,small_airport,TZ,-5.428612,35.166079,4250.0,no
+TZ-0058,Bulyanhulu Airport,small_airport,TZ,-3.2292,32.473316,3944.0,no
+TZ-0059,Chidudu Airport,small_airport,TZ,-6.565131,35.1737,3670.0,no
+TZ-0060,Endanyawish Airport,small_airport,TZ,-3.711702,35.270623,4350.0,no
+TZ-0061,Golden Pride Mines Airport,small_airport,TZ,-4.080354,33.160212,3789.0,no
+TZ-0062,Gorimba Airport,small_airport,TZ,-4.837753,35.366121,4660.0,no
+TZ-0063,Gua Airport,small_airport,TZ,-7.868375,32.48466,,no
+TZ-0064,Handa Airport,small_airport,TZ,-4.954854,35.323672,4150.0,no
+TZ-0065,Harbanget Airport,small_airport,TZ,-3.868369,35.396409,5500.0,no
+TZ-0066,Haidom Airport,small_airport,TZ,-4.198626,35.018655,5750.0,no
+TZ-0067,Ibanda Airport,small_airport,TZ,-1.074975,30.51758,4300.0,no
+TZ-0068,Ifunda Farm Airstrip,small_airport,TZ,-8.065451,35.430749,5744.0,no
+TZ-0069,Kagera Sugar Airport,small_airport,TZ,-1.233641,31.327325,3830.0,no
+TZ-0070,Kapalagulu Airport,small_airport,TZ,-5.904938,30.082868,3500.0,no
+TZ-0071,Kapenta Airport,small_airport,TZ,-8.357716,32.103045,2810.0,no
+TZ-0072,Ihanda Airstrip,small_airport,TZ,-1.552361,31.104871,4900.0,no
+TZ-0073,Kibebe Airport,small_airport,TZ,-7.797941,35.762345,4725.0,no
+TZ-0074,Kibidula Airport,small_airport,TZ,-8.412202,35.094073,6281.0,no
+TZ-0075,Kihansi Airport,small_airport,TZ,-8.653119,35.865055,957.0,no
+TZ-0076,Kilombero Airport,small_airport,TZ,-7.687751,36.986496,984.0,no
+TZ-0077,Kilumbi Airport,small_airport,TZ,-6.32536,34.173759,4540.0,no
+TZ-0078,Kishoshoroni Airport,small_airport,TZ,-2.015174,35.273109,6100.0,no
+TZ-0079,Kitumbeine Airport,small_airport,TZ,-2.820447,36.323156,,no
+TZ-0080,Kwajoni Airport,small_airport,TZ,-5.512166,38.965097,15.0,no
+TZ-0081,Lolmorijoi Airport,small_airport,TZ,-4.549415,37.024381,3800.0,no
+TZ-0082,Lualanje Airport,small_airport,TZ,-7.918083,33.552315,,no
+TZ-0083,Lugonesi Airport,small_airport,TZ,-6.15954,30.298705,5200.0,no
+TZ-0084,Lukwati Airport,small_airport,TZ,-7.599608,32.3072,4000.0,no
+TZ-0085,Maboxi Airport,small_airport,TZ,-8.391651,37.168761,,no
+TZ-0086,Madaba Airport,small_airport,TZ,-8.643293,37.673992,1040.0,no
+TZ-0087,Mahaka Airport,small_airport,TZ,-6.135581,35.049797,2740.0,no
+TZ-0088,Makau Airport,small_airport,TZ,-3.367409,34.824166,5131.0,no
+TZ-0089,Malagarasi Airport,small_airport,TZ,-4.793813,30.712949,3819.0,no
+TZ-0090,Mamarehe Airport,small_airport,TZ,-2.657814,34.394518,4750.0,no
+TZ-0091,Mashado Airport,small_airport,TZ,-5.470712,38.955266,200.0,no
+TZ-0092,Masimba Airport,small_airport,TZ,-7.267927,34.218247,,no
+TZ-0093,Matemanga Airport,small_airport,TZ,-10.763142,36.953222,2700.0,no
+TZ-0094,Matipwili Airport,small_airport,TZ,-6.248936,38.678104,85.0,no
+TZ-0095,Mbarali Airport,small_airport,TZ,-8.656494,34.273113,3432.0,no
+TZ-0096,Mbono 2 Airport,small_airport,TZ,-3.11141,34.660824,5320.0,no
+TZ-0097,Buhemba Airport,small_airport,TZ,-1.774223,34.098139,4534.0,no
+TZ-0098,Mchukwi Rufiji Airport,small_airport,TZ,-7.772857,39.019695,450.0,no
+TZ-0099,Merugoi Airport,small_airport,TZ,-2.723808,36.135783,3700.0,no
+TZ-0100,Mlambala Airport,small_airport,TZ,-7.233234,32.063351,3278.0,no
+TZ-0101,Mlele Ram Airport,small_airport,TZ,-6.784087,31.367951,3300.0,no
+TZ-0102,Mngeta Airport,small_airport,TZ,-8.364091,36.103211,,no
+TZ-0103,Mountain Side Airport,small_airport,TZ,-2.878109,37.135211,6200.0,no
+TZ-0104,Msima 1 Airport,small_airport,TZ,-6.339313,31.849913,3710.0,no
+TZ-0105,Msima 2 Airport,small_airport,TZ,-5.839096,31.459827,3600.0,no
+TZ-0106,Mtibwa Airport,small_airport,TZ,-6.148889,37.661551,1234.0,no
+TZ-0107,Muhesi Airport,small_airport,TZ,-6.139352,34.464442,4300.0,no
+TZ-0108,Murungu Airport,small_airport,TZ,-4.185382,31.293522,3300.0,no
+TZ-0121,Bushman Airstrip,small_airport,TZ,-9.17479,35.966534,1021.0,no
+TZ-0122,Gelai East Airport,small_airport,TZ,-2.476768,36.25761,3200.0,no
+TZ-0123,Klein's Camp Airport,small_airport,TZ,-1.775438,35.278282,6300.0,no
+TZ-0124,Lamai Airport,small_airport,TZ,-1.561738,34.702039,4410.0,no
+TZ-0125,Lugala Airport,small_airport,TZ,-8.916494,36.126593,943.0,no
+TZ-0126,Luwegu Airport,small_airport,TZ,-9.022345,37.289976,500.0,no
+TZ-0127,Lwafi Airport,small_airport,TZ,-6.982929,30.894894,3600.0,no
+TZ-0128,Makwasa Airport,small_airport,TZ,-6.817874,34.218918,4000.0,no
+TZ-0129,Masusu Airport,small_airport,TZ,-2.272545,35.808636,4000.0,no
+TZ-0130,Mikindani Airport,small_airport,TZ,-10.256118,40.093869,136.0,no
+TZ-0131,Mlele Airport,small_airport,TZ,-7.119408,31.839151,3500.0,no
+TZ-0132,Mugumu Airport,small_airport,TZ,-1.870455,34.645517,5172.0,no
+TZ-0138,Kasense Airport,small_airport,TZ,-5.784903,31.355212,3000.0,no
+TZ-0139,Mawemeru Airport,small_airport,TZ,-3.111222,32.21536,4000.0,no
+TZ-0140,Buckreef Airport,small_airport,TZ,-3.095158,32.019562,4017.0,no
+TZ-0144,Milambi Airport,small_airport,TZ,-1.40561,30.74995,4279.0,no
+TZ-0145,Msalato International Airport (under construction),closed,TZ,-6.072077,35.793523,3580.0,no
+TZ-GIT,Mchauru Airport,small_airport,TZ,-2.813667,32.172472,3955.0,no
+UG-0001,Kisoro Airport,small_airport,UG,-1.2837,29.7197,6200.0,yes
+UG-0003,Mutukula Airport,small_airport,UG,-0.9273,31.4417,3820.0,no
+UG-0005,Koboko Airport,small_airport,UG,3.409147,30.969793,,no
+UG-0006,Kalongo Airport,small_airport,UG,3.044704,33.379279,,no
+UG-0007,Chobe Safari Lodge Airport,small_airport,UG,2.239199,32.14468,3140.0,no
+UG-0008,Matany Airstrip,small_airport,UG,2.449456,34.396493,3895.0,no
+UG-0009,Lake Albert Lodge Airstrip,small_airport,UG,1.47099,30.93749,,no
+UG-0010,Buhuka Airport,small_airport,UG,1.246181,30.747939,,no
+UG-0011,Buseruka Airport,small_airport,UG,1.555726,31.094862,,no
+UG-0012,Butiaba Airport,small_airport,UG,1.80863,31.342983,,no
+UG-0013,Kabalega International Airport (Under Construction),closed,UG,1.44327,31.07396,3510.0,no
+UG-0014,Bukasa Airport,small_airport,UG,-0.40721,32.50876,,no
+UG-0015,Bulago Airport,small_airport,UG,-0.02421,32.66506,,no
+UG-0016,Kayonza Airport,small_airport,UG,-0.862163,29.639553,3800.0,no
+UG-0017,Kololo Airstrip,closed,UG,0.3262,32.594,3939.0,no
+UG-0018,Kibimba Airstrip,small_airport,UG,0.517315,33.877112,,no
+UG-OYG,Moyo Airport,small_airport,UG,3.6444,31.762762,3250.0,no

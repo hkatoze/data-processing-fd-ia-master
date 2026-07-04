@@ -1,0 +1,26 @@
+ID,airport_name,type,country,lat,long,elevation,service
+DJ-0002,Djibouti Hassan Gouled International Airport,closed,DJ,11.54796,43.12446,108.0,no
+ET-0016,Bishoftu International Airport(Under Construction),closed,ET,8.697235,38.798834,,no
+HAAB,Addis Ababa Bole International Airport,large_airport,ET,8.97789,38.799301,7630.0,yes
+HADR,Aba Tenna Dejazmach Yilma International Airport,large_airport,ET,9.623549,41.855027,3827.0,yes
+HAJJ,Gerad Wilwal International Airport,large_airport,ET,9.331907,42.911811,5954.0,yes
+HALA,Hawassa International Airport,large_airport,ET,7.100611,38.396455,5450.0,yes
+HBBA,Bujumbura Melchior Ndadaye International Airport,large_airport,BI,-3.32402,29.318501,2582.0,yes
+HCMF,Bender Qassim International Airport,large_airport,SO,11.275235,49.139231,3.0,yes
+HCMH,Egal International Airport,large_airport,SO,9.514082,44.083469,4471.0,yes
+HCMM,Aden Adde International Airport,large_airport,SO,2.01444,45.304699,29.0,yes
+HKEL,Eldoret International Airport,large_airport,KE,0.404458,35.238899,6941.0,yes
+HKJK,Jomo Kenyatta International Airport,large_airport,KE,-1.318886,36.928233,5330.0,yes
+HKKI,Kisumu International Airport,large_airport,KE,-0.086139,34.728901,3734.0,yes
+HKML,Malindi International Airport,medium_airport,KE,-3.22931,40.1017,80.0,yes
+HKMO,Moi International Airport,large_airport,KE,-4.03483,39.5942,200.0,yes
+HRYR,Kigali International Airport,large_airport,RW,-1.96863,30.1395,4859.0,yes
+HTDA,Julius Nyerere International Airport,large_airport,TZ,-6.873499,39.207288,182.0,yes
+HTKJ,Kilimanjaro International Airport,large_airport,TZ,-3.427049,37.07353,2932.0,yes
+HTMW,Mwanza International Airport,large_airport,TZ,-2.446563,32.936049,3763.0,yes
+HTZA,Abeid Amani Karume International Airport,large_airport,TZ,-6.22202,39.224899,54.0,yes
+HUEN,Entebbe International Airport,large_airport,UG,0.042386,32.443501,3782.0,yes
+RW-0002,Bugesera International Airport (under construction),closed,RW,-2.1444,30.1835,4630.0,no
+SO-0022,New Mogadishu International Airport (Under Construction),closed,SO,2.199637,45.619727,30.0,no
+TZ-0145,Msalato International Airport (under construction),closed,TZ,-6.072077,35.793523,3580.0,no
+UG-0013,Kabalega International Airport (Under Construction),closed,UG,1.44327,31.07396,3510.0,no
